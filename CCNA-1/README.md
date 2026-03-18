@@ -4,7 +4,7 @@ Este apartado incluye toda la información obtenida en cada módulo correspondie
 
 # MODULOS
 
-1. [MODULO 1](CCNA-1/CCNA-1-M01)
+1. [MODULO 1](./CCNA-1/CCNA-1-M01./)
 
 
 Cada módulo incluye:
