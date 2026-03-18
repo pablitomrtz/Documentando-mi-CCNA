@@ -29,7 +29,6 @@ Proporciona el canal por el cual se envia el mensaje desde el origen al destino.
 
 <img width="565" height="401" alt="Captura de pantalla de 2026-03-18 17-46-11" src="https://github.com/user-attachments/assets/7de7a13c-ac7b-41d3-aca6-4bcd50e2f6d6" />
 
-
 ## Tipos de red
 
 - Redes LAN: Infraestructura de la red que abarca un area geográfica pequeña. Interconecta un área limitada, ejemplos como una casa, un edificio de oficinas o un campus.
