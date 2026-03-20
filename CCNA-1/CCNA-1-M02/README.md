@@ -9,11 +9,12 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 ## Tabla de Contenidos
 
 - [Sistemas Operativos](#sistemas-operativos)
-- [Dispositivos finales](#dispositivos-finales)
-- [Dispositivos intermedios](#dispositivos-intermedios)
-- [Medios de red](#medios-de-red)
-- [Tipos de red](#tipos-de-red)
-- 
+- [Cisco IOS](#cisco-ios)
+  - [Estructura de Comandos](#estructura-de-comandos)
+  - [Medios de red](#medios-de-red)
+  - [Comandos de Navegación](#comandos-de-navegacion)
+  - [Comandos de Verificación](#comandos-de-verificacion)
+  - [Teclas de Acceso Rápido](#teclas-de-acceso-rapido)
 
 ## Sistemas Operativos
 
