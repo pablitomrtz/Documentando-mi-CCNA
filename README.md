@@ -3,6 +3,8 @@
 Hola! Mi nombre es Pablo y en este repositorio documento todo mi proceso de aprendizaje en redes dentro de los cursos CCNA 1, 2 y 3 (Cisco Certified Network Associate).
 Enfocaré en aplicar los conocimientos a traves de laboratorios practicos, simulaciones y proyectos inspirados en escenarios reales. 
 
+[CCNA 1](./CCNA-1/)
+
 # Contenido del repositorio
 
 - Notas organizadas por módulos
