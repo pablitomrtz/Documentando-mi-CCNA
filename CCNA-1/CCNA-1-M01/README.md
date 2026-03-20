@@ -7,6 +7,7 @@
 - [Dispositivos intermedios](#dispositivos-intermedios)
 - [Medios de red](#medios-de-red)
 - [Tipos de red](#tipos-de-red)
+- [Conexiones a Internet](#conexiones-a-internet)
 
 ## Objetivo del módulo
 
@@ -48,70 +49,71 @@ Proporciona el canal por el cual se envía el mensaje desde el origen al destino
 
 ## Conexiones a Internet
 
-Varian segun ubicacion geografica y la disponibilidad de los ISP.
+Las conexiones a Internet varían según la ubicación geográfica y la disponibilidad de los ISP.
 
-Conexiones domesticas
+### Conexiones domésticas
 
-- Cable: se transmiten datos por medio del mismo cable que ofrece television por cable
-- DSL: Linea de Suscriptor Digital, se transporta por la linea de telefono, se utiliza ADSL para oficinas pequeñas. Velocidad de descarga mayor que la de carga
-- Celular: cobertura de telefonia movil que ofrece acceso a internet, limitado a las capacidades del telefono y la torre celular.
-- Satelital: ofrecido a quienes no tengan acceso de ninguna otra forma a internet, requiere una linea de vista despejada, utilizado en zonas rurales, campos alejados de ciudades, etc.
-- Telefonia Dial-Up: opcion de bajo costo, proporciona conexion por modem debil, no posibilita la transferencia de datos masivas, util para acceso movil en viajes.
+- **Cable**: Se transmiten datos por medio del mismo cable que ofrece televisión por cable.
+- **DSL**: Línea de Suscriptor Digital, se transporta por la línea de teléfono. Se utiliza ADSL para oficinas pequeñas. Velocidad de descarga mayor que la de carga.
+- **Celular**: Cobertura de telefonía móvil que ofrece acceso a Internet, limitado a las capacidades del teléfono y la torre celular.
+- **Satelital**: Ofrecido a quienes no tengan acceso de ninguna otra forma a Internet. Requiere una línea de vista despejada, utilizado en zonas rurales y campos alejados de ciudades.
+- **Telefonía Dial-Up**: Opción de bajo costo que proporciona conexión por módem débil. No posibilita la transferencia de datos masivas, útil para acceso móvil en viajes.
 
 <img width="557" height="338" alt="Captura de pantalla de 2026-03-19 21-27-04" src="https://github.com/user-attachments/assets/d3d4eed6-9481-4546-9906-83e3ad0828a5" />
 
-Conexiones Empresariales
+### Conexiones empresariales
 
-Las organizaciones suelen requerir mayor ancho de banda y servidores administrados 
-- Lineas arrendadas dedicadas: circuitos reservados dentro del ISP que conectan oficinas remotas para VPNs de voz y/o datos. Empresas alquilan este servicio mensual o anualmente.
-- Metro Ethernet: extiende la tecnologia LAN a WAN
-- DSL empresarial: utilizado en muchos formatos, el mas utilizado SDLS, misma velocidad de subida y descarga
-- Satelital: solucion cuando la conexion por cable no es posible
+Las organizaciones suelen requerir mayor ancho de banda y servidores administrados.
+
+- **Líneas arrendadas dedicadas**: Circuitos reservados dentro del ISP que conectan oficinas remotas para VPNs de voz y/o datos. Las empresas alquilan este servicio mensualmente o anualmente.
+- **Metro Ethernet**: Extiende la tecnología LAN a WAN.
+- **DSL empresarial**: Utilizado en muchos formatos. El más utilizado es SDSL, con la misma velocidad de subida y descarga.
+- **Satelital**: Solución cuando la conexión por cable no es posible.
 
 <img width="559" height="334" alt="Captura de pantalla de 2026-03-19 21-38-50" src="https://github.com/user-attachments/assets/16b69fa3-2ab2-4098-a42c-75349419cdb2" />
 
-## Lab 1 - Representacion de una Red en Packet Tracer
+## Lab 1 - Representación de una Red en Packet Tracer
 
-Exploracion de una topologia de red simulada en Packet Tracer con el objetivo de comprender e identificar componentes principales, la funcion que cumple cada uno de ellos y analizar la red en su conjunto como red de hogar y empresarial.
+Exploración de una topología de red simulada en Packet Tracer con el objetivo de comprender e identificar los componentes principales, la función que cumple cada uno de ellos y analizar la red en su conjunto como red de hogar y empresarial.
 
 <img width="598" height="453" alt="Captura de pantalla de 2026-03-19 22-22-30" src="https://github.com/user-attachments/assets/c699bda3-30d4-47f0-80df-211d229d5057" />
 
+### Análisis de la topología
 
-Analisis de la topologia
+Durante la exploración de la red se logró identificar una infraestructura empresarial con segmentos interconectados, representando un escenario donde distintas ubicaciones se comunican entre sí en una WAN:
 
-Durante la exploracion de la red se logro identificar una infraestructura empresarial con segmentos interconectados, representando un escenario donde distintas ubicaciones se comunican entre si en una WAN:
-- Home Office
-- Central
-- Branch
-- Conexion por Internet e Intranet
+#### Home Office
 
-Home Office
+Representa una red LAN doméstica con PC, Laptop, Tablet, Impresora, Router Inalámbrico y un módem conectado a Internet. El WRS es el punto central, proporciona conexión local y acceso a Internet.
 
-Representando una red LAN domestica con PC, Laptop, Tablet, Impresora, Router Inalambrico y un modem conectado a internet. El WRS es el punto central, proporciona conexion local y acceso a internet.
+#### Central
 
-Central
+Representa una red empresarial más compleja que las demás. Cuenta con un servidor central, routers, switches interconectados y cuatro PCs. Su estructura es más robusta con una gran cantidad de switches para garantizar redundancia, disponibilidad y confiabilidad en la red.
 
-Representa una red empresarial mas compleja que las demas, cuenta con un servidor central, routers, switches interconectados y cuatro PCs. Su estructura es mas robusta gran cantidad de switches, para garantizar redundancia, disponibilidad y confiabilidad a la red.
+#### Branch
 
-Branch
+Representa una oficina remota de mayor complejidad que la Home Office. Cuenta con router, switch, PCs, servidor local, impresora, teléfonos IP, smartphone y laptops conectados de forma inalámbrica.
 
-Representa una oficina remota de mayor complejidad que la Home Office, cuenta con router, switch, PCs, Servidor local, impresora, telefonos IP, Smartphone y Laptops conectados de forma inalambrica.
+### Dispositivos intermedios
 
-Dispositivos intermedios
+- **Routers**: Se encargan de conectar redes distintas. Ejemplo: LAN to WAN.
+- **Switches**: Conectan dispositivos dentro de las redes LAN.
 
-- Routers: se encargan de conectar redes distintas, Ej LAN to WAN.
-- Switches: conectan dispositivos dentro de las redes LAN
+### Medios de red
 
-Medios de red
+Cada tipo de medio se selecciona específicamente según la distancia, velocidad y contexto de la red.
 
-Cada tipo de medio se selecciona especificamente segun distancia, velocidad y contexto de la red.
+- **Cableado Ethernet**: Transmisión por cobre para redes locales de alta velocidad.
+- **Cable coaxial**: Transmisión por cobre con blindaje adicional para mayores distancias.
+- **Conexión Wireless**: Transmisión inalámbrica para dispositivos móviles.
+- **Cableado DTE**: Cables seriales para conexiones entre dispositivos intermedios.
 
-- Cableado Ethernet
-- Cable coaxial
-- Conexion Wireless
-- Cableado DTE
+### Análisis conceptual de la red
 
- Analisis conceptual de la red
- Los servidores localizados en las redes mas complejas, Central y Branch, proporcionan servicios a los dispositivos cliente. Ejemplo, las PC de Central acceden al servidor central para solicitar informacion y servicios, especificamente para lo que el servidor es utilizado es en transferencia de datos entre los dispositivos de la red.
- 
+Los servidores localizados en las redes más complejas (Central y Branch) proporcionan servicios a los dispositivos cliente. Por ejemplo, las PC de Central acceden al servidor central para solicitar información y servicios. El servidor es utilizado principalmente para la transferencia de datos entre los dispositivos de la red.
+
+## Resumen clave
+
+Este módulo establece los fundamentos para comprender cómo funcionan las redes modernas, desde los componentes básicos hasta las topologías complejas. Entender estos conceptos es esencial para el diseño, implementación y mantenimiento de infraestructuras de red en cualquier entorno.
+
 ⬅️ [Volver a CCNA 1](../)
