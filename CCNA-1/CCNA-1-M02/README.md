@@ -11,6 +11,7 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 - [Sistemas Operativos](#sistemas-operativos)
 - [Cisco IOS](#cisco-ios)
   - [Estructura de Comandos](#estructura-de-comandos)
+  - [Modos de Comando](#modos-de-comando)
   - [Medios de red](#medios-de-red)
   - [Comandos de Navegación](#comandos-de-navegacion)
   - [Comandos de Verificación](#comandos-de-verificacion)
