@@ -8,6 +8,13 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 
 ## Tabla de Contenidos
 
+- [Sistemas Operativos](#sistemas-operativos)
+- [Dispositivos finales](#dispositivos-finales)
+- [Dispositivos intermedios](#dispositivos-intermedios)
+- [Medios de red](#medios-de-red)
+- [Tipos de red](#tipos-de-red)
+- 
+
 ## Sistemas Operativos
 
 Es el software principal dentro de un dispositivo, se encarga de la gestión eficiente del hardware (Memoria RAM, Discos Duros, Procesador, etc.) para proporcionar servicios a través de una interfaz de usuario a los programas de aplicación.
