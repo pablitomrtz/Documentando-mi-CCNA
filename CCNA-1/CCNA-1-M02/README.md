@@ -4,9 +4,13 @@ Este modulo dicta configuraciones basicas e iniciales de dispositivos en una red
 
 ## Laboratorios
 
+[Laboratorio 1 - Configuración Básica de Dispositivos]
+
 
 ## Tabla de contenidos
 
+sistemas operativos
+cisco ios
 
 ## Sistemas operativos 
 
