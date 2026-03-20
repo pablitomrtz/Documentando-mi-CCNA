@@ -12,9 +12,9 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 - [Cisco IOS](#cisco-ios)
   - [Estructura de Comandos](#estructura-de-comandos)
   - [Modos de Comando](#modos-de-comando)
-  - [Comandos de Navegación](#comandos-de-navegacion)
-  - [Comandos de Verificación](#comandos-de-verificacion)
-  - [Teclas de Acceso Rápido](#teclas-de-acceso-rapido)
+  - [Comandos de Navegación](#comandos-de-navegación)
+  - [Comandos de Verificación](#comandos-de-verificación)
+  - [Teclas de Acceso Rápido](#teclas-de-acceso-rápido)
 
 ## Sistemas Operativos
 
