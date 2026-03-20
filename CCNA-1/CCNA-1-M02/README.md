@@ -4,7 +4,7 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 
 ## Laboratorios
 
-[Laboratorio 1 - Configuración Básica de Dispositivos](./CCNA-1-M02/labs/lab-01-configuración-básica/)
+[Laboratorio 1 - Configuración Básica de Dispositivos](./labs/lab-01-configuración-básica/)
 
 ## Tabla de Contenidos
 
