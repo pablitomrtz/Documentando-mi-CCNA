@@ -4,7 +4,7 @@ Este modulo dicta configuraciones basicas e iniciales de dispositivos en una red
 
 ## Laboratorios
 
-[Laboratorio 1 - Configuración Básica de Dispositivos]CCNA-1/CCNA-1-M02/ labs/lab-01-configuración-básica
+[Laboratorio 1 - Configuración Básica de Dispositivos](./CCNA-1/CCNA-1-M02/ labs/lab-01-configuración-básica/)
 
 
 ## Tabla de contenidos
