@@ -8,9 +8,6 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 
 ## Tabla de Contenidos
 
-- Sistemas Operativos
-- Cisco IOS
-
 ## Sistemas Operativos
 
 Es el software principal dentro de un dispositivo, se encarga de la gestión eficiente del hardware (Memoria RAM, Discos Duros, Procesador, etc.) para proporcionar servicios a través de una interfaz de usuario a los programas de aplicación.
