@@ -70,4 +70,4 @@ copy running-config startup-config
 
 <img width="277" height="91" alt="Captura de pantalla de 2026-03-23 00-42-18" src="https://github.com/user-attachments/assets/09d0f83f-b179-4688-82e5-1257944dd361" />
 
-## Configuracion de interfaces del switch
+### Configuracion de interfaces del switch
