@@ -25,6 +25,7 @@ show running-config
 
 - **Asignacion de nombre al dispositivo switch**
 
+
 ```
 enable 
 configure terminal                                   
