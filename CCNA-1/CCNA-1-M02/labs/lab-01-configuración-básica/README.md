@@ -34,7 +34,7 @@ hostname S1
 <img width="422" height="114" alt="Captura de pantalla de 2026-03-23 00-15-21" src="https://github.com/user-attachments/assets/19d45392-9b7d-473f-8661-87c10ebc6fec" />
 
 
-**Aseguramiento de la linea de consola desde el modo configuracion global**
+- **Aseguramiento de la linea de consola desde el modo configuracion global**
 
   - **Análisis**: Se asigna acceso seguro a la linea de consola con contraseña, tener en cuenta ingresar el comando login ya que es indispensable para indicar al sistema que antes de dar acceso al CLI debe ingresar mediante una clave. En el caso del ejemplo, letmein
 
