@@ -4,7 +4,7 @@
 ## Configuración básica del switch
 
 
-### Propósito
+- ### Propósito
 
 Implementar configuraciones básicas en switches, asegurar el acceso a la interfaz de la CLI y puertos de consola utilizando contraseñas cifradas. Configuración de mensajes para usuarios que inicien sesion en el switch o para advertir usuarios no autorizados.
 
