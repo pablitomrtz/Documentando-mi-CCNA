@@ -1,9 +1,8 @@
 # Laboratorio 1 - Configuración básica de Dispositivos
 
 
-## Configuraciones
+## Configuración básica del switch
 
-### Configuración básica del switch
 
 ### Propósito
 
@@ -13,6 +12,8 @@ Implementar configuraciones básicas en switches, asegurar el acceso a la interf
 
 2 Switch
 2 PCs
+
+### Procedimientos
 
 - Chequeo de informacion predeterminada del switch 
 
