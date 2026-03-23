@@ -8,12 +8,12 @@
 
 Implementar configuraciones básicas en switches, asegurar el acceso a la interfaz de la CLI y puertos de consola utilizando contraseñas cifradas. Configuración de mensajes para usuarios que inicien sesion en el switch o para advertir usuarios no autorizados.
 
-### Topologia de Red
+- ### Topologia de Red
 
 2 Switch
 2 PCs
 
-### Procedimientos
+- ### Procedimientos
 
 **Chequeo de informacion predeterminada del switch** 
 
@@ -36,7 +36,7 @@ hostname S1
 
 **Aseguramiento de la linea de consola desde el modo configuracion global**
 
-**Análisis**: Se asigna acceso seguro a la linea de consola con contraseña, tener en cuenta ingresar el comando login ya que es indispensable para indicar al sistema que antes de dar acceso al CLI debe ingresar mediante una clave. En el caso del ejemplo, letmein
+  - **Análisis**: Se asigna acceso seguro a la linea de consola con contraseña, tener en cuenta ingresar el comando login ya que es indispensable para indicar al sistema que antes de dar acceso al CLI debe ingresar mediante una clave. En el caso del ejemplo, letmein
 
 ```
 configure terminal
