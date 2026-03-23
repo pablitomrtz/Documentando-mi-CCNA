@@ -25,7 +25,6 @@ show running-config
 
 - **Asignacion de nombre al dispositivo switch**
 
-
 ```
 enable 
 configure terminal                                   
@@ -76,6 +75,8 @@ enable secret itsasecret
 
 - **Cifrado de contraseñas enable y console**
 
+  - **Análisis**: Importante implementar el cifrado en aquellas contraseñas que se almacenan en texto plano dentro del archivo de configuracion de los dispositivos
+  
 ```
 configure terminal 
 service password-encryption
