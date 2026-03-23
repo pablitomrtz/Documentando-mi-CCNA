@@ -116,4 +116,4 @@ Los servidores localizados en las redes más complejas (Central y Branch) propor
 
 Este módulo establece los fundamentos para comprender cómo funcionan las redes modernas, desde los componentes básicos hasta las topologías complejas. Entender estos conceptos es esencial para el diseño, implementación y mantenimiento de infraestructuras de red en cualquier entorno.
 
-⬅️ [Volver a CCNA 1](../)
+[Volver a CCNA 1](../)
