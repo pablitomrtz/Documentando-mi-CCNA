@@ -111,3 +111,5 @@ Utilizados para validar configuraciones y estado del dispositivo, son comandos f
 | `Ctrl+P` | Recupera comandos en el historial. |
 | `Ctrl+C` | Finaliza el modo de configuración actual y vuelve al modo EXEC privilegiado. |
 | `Ctrl+Shift+6` | Interrupción multipropósito para anular búsquedas DNS, ping, traceroute, etc. |
+
+[Volver a CCNA 1](../)
