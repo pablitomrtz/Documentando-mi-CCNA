@@ -1,5 +1,7 @@
 # Laboratorio 1 - Configuración básica de Dispositivos
 
+<img width="563" height="346" alt="Captura de pantalla de 2026-03-23 20-02-33" src="https://github.com/user-attachments/assets/a9069873-55de-43dd-94f4-476de82d13a3" />
+
 
 ## Configuración básica del switch
 
@@ -103,8 +105,11 @@ copy running-config startup-config
 
 <img width="277" height="91" alt="Captura de pantalla de 2026-03-23 00-42-18" src="https://github.com/user-attachments/assets/09d0f83f-b179-4688-82e5-1257944dd361" />
 
+### Análisis técnico 
 
-### Configuracion de interfaces del switch
+Se logró implementar correctamente una configuración básica completa en los dispositivos de red, incluyendo identificación, securización, buenas practicas como cifrado de contraseñas y configuración de banners de aviso antes de acceder a la linea de comando.
+
+## Configuracion de interfaces del switch
 
 ### Propósito
 
