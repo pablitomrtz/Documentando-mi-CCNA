@@ -1,17 +1,18 @@
 # Laboratorio 1 - Configuración básica de Dispositivos
 
-## Propósito
-
-Implementar configuraciones básicas en switches, asegurar el acceso a la interfaz de la CLI y puertos de consola utilizando contraseñas cifradas. Configuración de mensajes para usuarios que inicien sesion en el switch o para advertir usuarios no autorizados.
-
-## Topologia de Red
-
-2 Switch
-2 PCs
 
 ## Configuraciones
 
 ### Configuración básica del switch
+
+### Propósito
+
+Implementar configuraciones básicas en switches, asegurar el acceso a la interfaz de la CLI y puertos de consola utilizando contraseñas cifradas. Configuración de mensajes para usuarios que inicien sesion en el switch o para advertir usuarios no autorizados.
+
+### Topologia de Red
+
+2 Switch
+2 PCs
 
 - Chequeo de informacion predeterminada del switch 
 
@@ -71,3 +72,40 @@ copy running-config startup-config
 <img width="277" height="91" alt="Captura de pantalla de 2026-03-23 00-42-18" src="https://github.com/user-attachments/assets/09d0f83f-b179-4688-82e5-1257944dd361" />
 
 ### Configuracion de interfaces del switch
+
+### Propósito
+
+Realizar configuraciones básicas de conectividad con asignacion de direcciones IP, en switches y PC, verificaciones de correcta implementacion de las configuraciones y conexiones.
+
+### Topologia de Red
+
+2 Switch
+2 PCs
+
+- Configuracion basica en los switches
+
+<img width="608" height="292" alt="Captura de pantalla de 2026-03-23 16-22-04" src="https://github.com/user-attachments/assets/05b99a1f-4bb1-47a2-8a28-4011eb59723f" />
+
+<img width="605" height="342" alt="Captura de pantalla de 2026-03-23 16-25-12" src="https://github.com/user-attachments/assets/df4a96f6-f169-40cb-a238-9cbbecc2b447" />
+
+- Configuracion basica de direcciones IP en PCs
+
+PC 1
+<img width="1366" height="768" alt="Captura de pantalla de 2026-03-23 16-27-35" src="https://github.com/user-attachments/assets/20d5d4b5-1766-421f-91ef-13493e747727" />
+
+PC 2
+<img width="1366" height="768" alt="Captura de pantalla de 2026-03-23 16-27-20" src="https://github.com/user-attachments/assets/94b1134a-144d-4d6a-9d12-79959f2a1dac" />
+
+- Configuracion de interfaces en switches
+
+<img width="604" height="435" alt="Captura de pantalla de 2026-03-23 16-34-38" src="https://github.com/user-attachments/assets/6987b1ad-ced0-4123-8161-b132ee419ef8" />
+
+- Verificaciones de configuracion y conectividad de la red
+
+<img width="610" height="415" alt="Captura de pantalla de 2026-03-23 16-35-15" src="https://github.com/user-attachments/assets/755371c7-b4e4-4791-a5d8-1f6ef0049dfe" />
+
+
+<img width="437" height="408" alt="Captura de pantalla de 2026-03-23 16-37-23" src="https://github.com/user-attachments/assets/d9420ba7-9d1c-4bd6-ab99-eb97a63fb154" />
+
+<img width="572" height="302" alt="Captura de pantalla de 2026-03-23 16-38-52" src="https://github.com/user-attachments/assets/c4158d88-31b2-4f77-b392-016dcf55eebf" />
+
