@@ -188,3 +188,5 @@ Dentro de las observaciones además se notó:
 - `no shutdown` es el comando que activa las interfaces de los dispositivos de red
 - El primer comando `ping` en primeras instancias puede dar un 80% de resultado aunque todas las direcciones esten configuradas correctamente, esto debido al proceso de ARP y busqueda de dispositivos en la red.
 - Comandos de verificacion: `show ip interface brief` `show running-config` `ping`  
+
+[Volver al MÓDULO 2](../)
