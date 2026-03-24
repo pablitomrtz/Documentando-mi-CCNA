@@ -8,7 +8,7 @@
 
 ### Archivos Packet Tracer
 
-[Configuración Básica](./CCNA-1-M02/configs/S1-running-config/)
+[Configuración Básica](./CCNA-1/CCNA-1-M02/configs/S1-running-config)
 
 [Conectividad Básica](./configs/S2-running-config/)
 
