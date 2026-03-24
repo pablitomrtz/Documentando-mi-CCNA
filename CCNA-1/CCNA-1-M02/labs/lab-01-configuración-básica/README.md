@@ -8,8 +8,9 @@
 
 ### Archivos Packet Tracer
 
-[Configuración Básica]
-[Conectividad Básica]
+[Configuración Básica](./configs/S1-running-config/)
+
+[Conectividad Básica](./configs/S2-running-config/)
 
 ### Configuraciones basicas de switches
 
