@@ -4,23 +4,27 @@
 
 ## Tabla de contenidos
 
+- [Configuración básica del switch](#configuración-básica-del-switch)
+- [Configuración para conectividad básica de dispositivos](#Configuracion-para-conectividad-básica-de-dispositivos)
+- [Observaciones finales](#Observaciones-finales)
+
 ## Archivos y configuraciones del laboratorio
 
 ### Archivos Packet Tracer
 
-[Configuración Básica](../../configs/S1-running-config/)
-
-[Conectividad Básica](./CCNA-1-M02/configs/S2-running-config.txt)
+[ARCHIVO 1 - CONFIG. BÁSICA](../../files/basic-config.pka)
+[ARCHIVO 2 - CONECT. BÁSICA](../../files/basic-connectivity.pka)
 
 ### Configuraciones basicas de switches
 
-[Switch 1]
-[Switch 2]
+[SWITCH 1 - CONFIG. BáSICA](../../configs/S1-running-config/)
+[SWITCH 2 - CONFIG. BáSICA](../../configs/S2-running-config/)
 
 ### Configuraciones de conectividad
 
-[Switch 1]
-[Switch 2]
+[SWITCH 1 - CONECT. BÁSICA](./CCNA-1-M02/configs/S1-basic-connectivity)
+[SWITCH 2 - CONECT. BÁSICA](./CCNA-1-M02/configs/S2-basic-connectivity)
+
 
 ## Configuración básica del switch
 
@@ -128,7 +132,7 @@ copy running-config startup-config
 
 Se logró implementar correctamente una configuración básica completa en los dispositivos de red, incluyendo identificación, securización, buenas practicas como cifrado de contraseñas y configuración de banners de aviso antes de acceder a la linea de comando.
 
-## Configuracion para conectividad básica de dispositivos
+## Configuración para conectividad básica de dispositivos
 
 <img width="642" height="128" alt="Captura de pantalla de 2026-03-23 20-15-26" src="https://github.com/user-attachments/assets/3b10ab49-8690-468c-871a-32ca1f81a274" />
 
