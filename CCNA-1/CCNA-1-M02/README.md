@@ -6,7 +6,7 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 
 - [Laboratorio 1 - Configuración Básica de Dispositivos](./labs/lab-01-configuración-básica/)
 - [Laboratorio 2 - Configuración Básica de Conectividad](./labs/lab-02-conectividad-básica/)
-- [Laboratorio 2 - Configuración de una red simple](./labs/lab-03-red-simple/)
+- [Laboratorio 3 - Configuración de una red simple](./labs/lab-03-red-simple/)
 ## Tabla de Contenidos
 
 - [Sistemas Operativos](#sistemas-operativos)
