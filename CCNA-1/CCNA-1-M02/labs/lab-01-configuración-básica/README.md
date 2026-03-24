@@ -45,8 +45,8 @@ Implementar configuraciones básicas en switches, asegurar el acceso a la interf
 
 ### Topologia de Red
 
-2 Switch
-2 PCs
+- 2 Switch
+- 2 PCs
 
 ### Procedimientos
 
@@ -153,8 +153,8 @@ Realizar configuraciones básicas de conectividad con asignacion de direcciones 
 
 ### Topologia de Red
 
-2 Switch
-2 PCs
+- 2 Switch
+- 2 PCs
 
 ### Procedimientos
 
