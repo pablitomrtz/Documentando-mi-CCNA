@@ -18,8 +18,8 @@
 
 ### Configuraciones de Switches
 
-- [SWITCH 1 - RED SIMPLE](./CCNA-1-M02/configs/S1-red-pequeña)
-- [SWITCH 2 - RED SIMPLE](./CCNA-1-M02/configs/S2-red-pequeña)
+- [SWITCH 1 - RED SIMPLE](../..//configs/S1-red-pequeña)
+- [SWITCH 2 - RED SIMPLE](../../configs/S2-red-pequeña)
 
 
 ## Configuración de una red simple
