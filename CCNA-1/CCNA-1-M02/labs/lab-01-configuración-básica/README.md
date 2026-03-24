@@ -133,25 +133,22 @@ Se logró implementar correctamente una configuración básica completa en los d
 
 ### Inicial
 
-- Dispositivos sin configuración
-- Interfaces deshabilitadas
-- Sin conectividad
+- Dispositivos sin identificación
+- Accesos sin configuración
+- Falta de encriptación
 
 ### Final
 
-- Configuración aplicada correctamente
-- Interfaces activas
-- Red funcional
+- Identificación implementada correctamente
+- Claves de acceso en CLI y modo EXEC Privilegiado
+- Encriptación 
 
 ## Observaciones finales
 
-Mediante el siguiente laboratorio adquiri conocimientos basicos pero primordiales para comenzar a comprender el funcionamiento de una red básica, se logró implementar eficientemente comandos básicos para la puesta a punto de un dispositivo hasta configuraciones de conectividad entre los dispositivos y su consiguiente verificacion. 
+Mediante el siguiente laboratorio adquiri conocimientos basicos pero primordiales para comenzar a comprender el funcionamiento de una red básica, se logró implementar eficientemente comandos básicos para la puesta a punto de los dispositivos de red. 
 
 Dentro de las observaciones además se notó:
 - `enable secret` ofrece mayor seguridad que `enable password` para la securización del modo EXEC privilegiado.
 - Se debe aplicar el comando `login` luego de establecer la clave de acceso a la CLI para activarla.
-- `no shutdown` es el comando que activa las interfaces de los dispositivos de red
-- El primer comando `ping` en primeras instancias puede dar un 80% de resultado aunque todas las direcciones esten configuradas correctamente, esto debido al proceso de ARP y busqueda de dispositivos en la red.
-- Comandos de verificacion: `show ip interface brief` `show running-config` `ping`  
 
 [Volver al MÓDULO 2](../)
