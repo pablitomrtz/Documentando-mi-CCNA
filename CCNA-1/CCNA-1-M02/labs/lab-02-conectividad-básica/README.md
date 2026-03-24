@@ -20,8 +20,8 @@
 
 ### Configuraciones de conectividad
 
-- [SWITCH 1 - CONECT. BÁSICA](./CCNA-1-M02/configs/S1-basic-connectivity)
-- [SWITCH 2 - CONECT. BÁSICA](./CCNA-1-M02/configs/S2-basic-connectivity)
+- [SWITCH 1 - CONECT. BÁSICA](../../configs/S1-basic-connectivity)
+- [SWITCH 2 - CONECT. BÁSICA](../../configs/S2-basic-connectivity)
 
 ## Configuración para conectividad básica de dispositivos
 
