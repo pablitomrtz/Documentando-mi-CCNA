@@ -5,6 +5,7 @@ Este módulo dicta configuraciones básicas e iniciales de dispositivos en una r
 ## Laboratorios
 
 [Laboratorio 1 - Configuración Básica de Dispositivos](./labs/lab-01-configuración-básica/)
+[Laboratorio 2 - Configuración Básica de Conectividad](./labs/lab-02-conectividad-básica/)
 
 ## Tabla de Contenidos
 
