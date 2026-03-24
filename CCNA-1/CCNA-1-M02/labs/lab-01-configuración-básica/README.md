@@ -2,6 +2,24 @@
 
 <img width="563" height="346" alt="Captura de pantalla de 2026-03-23 20-02-33" src="https://github.com/user-attachments/assets/a9069873-55de-43dd-94f4-476de82d13a3" />
 
+## Tabla de contenidos
+
+## Archivos y configuraciones del laboratorio
+
+### Archivos Packet Tracer
+
+[Configuración Básica]
+[Conectividad Básica]
+
+### Configuraciones basicas de switches
+
+[Switch 1]
+[Switch 2]
+
+### Configuraciones de conectividad
+
+[Switch 1]
+[Switch 2]
 
 ## Configuración básica del switch
 
