@@ -5,16 +5,16 @@
 ## Tabla de contenidos
 
 - [Configuración básica del switch](#configuración-básica-del-switch)
+  - [Propósito](#propósito)
+  - [Topologia de red](#topologia-de-red)
+  - [Procedimientos](#procedimientos)
+  - [Análisis técnico](#análisis-técnico)
+
+- [Configuración para conectividad básica de dispositivos](#Configuración-para-conectividad-básica-de-dispositivos))
   - [Propósito](#propósito-1)
   - [Topologia de red](#topologia-de-red-1)
   - [Procedimientos](#procedimientos-1)
   - [Análisis técnico](#análisis-técnico-1)
-
-- [Configuración para conectividad básica de dispositivos](#Configuración-para-conectividad-básica-de-dispositivos))
-  - [Propósito](#propósito-2)
-  - [Topologia de red](#topologia-de-red-2)
-  - [Procedimientos](#procedimientos-2)
-  - [Análisis técnico](#análisis-técnico-2)
 
 -  [Observaciones finales](#Observaciones-finales)
 
