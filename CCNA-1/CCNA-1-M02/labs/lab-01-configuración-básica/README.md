@@ -12,18 +12,18 @@
 
 ### Archivos Packet Tracer
 
-[ARCHIVO 1 - CONFIG. BÁSICA](../../files/basic-config.pka)
-[ARCHIVO 2 - CONECT. BÁSICA](../../files/basic-connectivity.pka)
+- [ARCHIVO 1 - CONFIG. BÁSICA](../../files/basic-config.pka)
+- [ARCHIVO 2 - CONECT. BÁSICA](../../files/basic-connectivity.pka)
 
 ### Configuraciones basicas de switches
 
-[SWITCH 1 - CONFIG. BáSICA](../../configs/S1-running-config/)
-[SWITCH 2 - CONFIG. BáSICA](../../configs/S2-running-config/)
+- [SWITCH 1 - CONFIG. BáSICA](../../configs/S1-running-config/)
+- [SWITCH 2 - CONFIG. BáSICA](../../configs/S2-running-config/)
 
 ### Configuraciones de conectividad
 
-[SWITCH 1 - CONECT. BÁSICA](./CCNA-1-M02/configs/S1-basic-connectivity)
-[SWITCH 2 - CONECT. BÁSICA](./CCNA-1-M02/configs/S2-basic-connectivity)
+- [SWITCH 1 - CONECT. BÁSICA](./CCNA-1-M02/configs/S1-basic-connectivity)
+- [SWITCH 2 - CONECT. BÁSICA](./CCNA-1-M02/configs/S2-basic-connectivity)
 
 
 ## Configuración básica del switch
