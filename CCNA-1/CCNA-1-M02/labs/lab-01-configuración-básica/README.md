@@ -5,7 +5,7 @@
 ## Tabla de contenidos
 
 - [Configuración básica del switch](#configuración-básica-del-switch)
-- [Configuración para conectividad básica de dispositivos](#Configuracion-para-conectividad-básica-de-dispositivos)
+- [Configuración para conectividad básica de dispositivos](#Configuración-para-conectividad-básica-de-dispositivos)
 - [Observaciones finales](#Observaciones-finales)
 
 ## Archivos y configuraciones del laboratorio
