@@ -4,7 +4,23 @@
 
 ## Tabla de contenido
 
+- [Configuración de una red simple](#Configuración-de-una-red-simple)
+  - [Propósito](#propósito)
+  - [Topologia de red](#topologia-de-red)
+  - [Procedimientos](#procedimientos)
+  - [Análisis técnico](#análisis-técnico)
+  
 ## Archivos y configuraciones
+
+### Archivo Packet Tracer
+
+- [ARCHIVO - RED SIMPLE](../../files/red-pequeña.pka)
+
+### Configuraciones de Switches
+
+- [SWITCH 1 - RED SIMPLE](./CCNA-1-M02/configs/S1-red-pequeña)
+- [SWITCH 2 - RED SIMPLE](./CCNA-1-M02/configs/S2-red-pequeña)
+
 
 ## Configuración de una red simple
 
@@ -33,9 +49,30 @@ Configuración de una red LAN pequeña. Configuración básica de los dispositiv
 
 <img width="652" height="127" alt="Captura de pantalla de 2026-03-24 17-14-42" src="https://github.com/user-attachments/assets/7e145a94-9711-4bba-9370-c81dd7e23db1" />
 
-PC Manager
+**PC Manager**
+
+<img width="674" height="336" alt="Captura de pantalla de 2026-03-24 17-09-33" src="https://github.com/user-attachments/assets/1b5b182b-6298-4690-9fe7-ae36d3134eb5" />
 
 
-Switch Room-145
+**Switch Room-145**
+
+<img width="569" height="168" alt="Captura de pantalla de 2026-03-24 17-08-51" src="https://github.com/user-attachments/assets/a4cb6319-a8c4-4a5e-bd2c-3a77656d3b80" />
+
+- **Verificacion de conectividad**
+  - **Análisis**: Mediante el comando ping se realizan las verificaciones de conectividad y funcionamiento correcto de la red. En las imagenes se realiza ping desde la PC Reception y desde el switch Room-145
+
+**PC Reception**
+
+<img width="431" height="546" alt="Captura de pantalla de 2026-03-24 17-26-53" src="https://github.com/user-attachments/assets/ba6d6988-9b39-40d7-8227-62390784d025" />
+
+
+**Switch Room-145**
+
+<img width="530" height="301" alt="Captura de pantalla de 2026-03-24 17-29-53" src="https://github.com/user-attachments/assets/25f15464-d717-40d7-96a5-80a74268fb18" />
+
 
 ### Análisis técnico
+
+Se implemento exitosamente las configuraciones basicas para el funcionamiento de una red simple, trabajo que simula un caso real de un técnico de LAN y los pasos que deberia seguir para lograr poner en marcha una red simple, entre ellos configuraciones de nombrado, contraseñas, direccionamiento y posterior verificación. En el transcurso del desarrollo del trabajo atravese un problema donde se paso por alto la configuracion de claves de acceso en todas las lineas, olvidandose de configurar una clave para las lineas VTY, error que fue corregido posteriormente luego de leer las instrucciones correctamente. 
+
+[Volver al MÓDULO 2](../)
