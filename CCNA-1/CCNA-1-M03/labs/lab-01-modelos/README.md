@@ -14,6 +14,8 @@
 
 ### Archivo Packet Tracer
 
+[ARCHIVO 1 - MODELO OSI](../../files/lab-modelo-osi.pka)
+
 ## Investigación del Modelo OSI
 
 ### Propósito
