@@ -4,25 +4,17 @@
 
 ## Tabla de contenidos
 
-- [Configuración básica del switch](#configuración-básica-del-switch)
+- [Investigación del Modelo OSI](#investigación-del-modelo-osi)
   - [Propósito](#propósito)
   - [Topologia de red](#topologia-de-red)
   - [Procedimientos](#procedimientos)
   - [Análisis técnico](#análisis-técnico)
 
--  [Observaciones finales](#Observaciones-finales)
-
 ## Archivos y configuraciones del laboratorio
 
-### Archivos Packet Tracer
+### Archivo Packet Tracer
 
-
-
-### Configuraciones basicas de switches
-
-
-## Configuración básica del switch
-
+## Investigación del Modelo OSI
 
 ### Propósito
 
