@@ -2,7 +2,7 @@
 
 ## Laboratorios
 
-- [Laboratorio 1]
+- [Laboratorio 1 - Investigación del Modelo OSI](./labs/lab-01-modelos/)
 - [Laboratorio 2]
 - [Laboratorio 3]
 
