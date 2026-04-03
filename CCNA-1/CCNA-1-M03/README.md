@@ -118,3 +118,4 @@ Modelo para comunicaciones de internet, coincide con la  estructura de una suite
 - La capa 4 de transporte OSI, esta asignada directamente a la capa de transporte en el modelo TCP/IP.
 - La capa de aplicación de TCP/IP incluye los protocolos 5, 6 y 7 del modelo OSI.
 
+[Volver al CCNA 1](../)
