@@ -29,4 +29,5 @@ Analizar las capturas de paquete al realizar ping a direcciones IP de dispositiv
 
 <img width="1366" height="768" alt="Captura de pantalla de 2026-04-03 20-02-17" src="https://github.com/user-attachments/assets/e097034c-f0e9-4808-ab94-61997dae2e66" />
 
+
 [Volver al MÓDULO 3](../)
